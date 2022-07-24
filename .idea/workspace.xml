@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cb86f16-2718-4c5c-b366-536a023624e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai thuc hanh 1 MD2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai1hienthithoigiancuahethong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai3sudungtoantuMD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai4giaiphuongtrinhbacnhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai5timsongaytrongthang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6kiemtranamnhuanMD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai7chisocannangcuacotheMD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Baikhaibaovasudungbien2MD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2COLFPqx98qWtR1cBdstAbtPPZQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Bai5timsongaytrongthang">
+    <configuration name="Bai1hienthithoigiancuahethong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai1hienthithoigiancuahethong" />
+      <module name="bai thuc hanh 1 MD2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bai3sudungtoantuMD2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai3sudungtoantuMD2" />
+      <module name="bai thuc hanh 1 MD2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bai4giaiphuongtrinhbacnhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai4giaiphuongtrinhbacnhat" />
+      <module name="bai thuc hanh 1 MD2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bai5timsongaytrongthang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai5timsongaytrongthang" />
+      <module name="bai thuc hanh 1 MD2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baikhaibaovasudungbien2MD2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baikhaibaovasudungbien2MD2" />
+      <module name="bai thuc hanh 1 MD2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bai5timsongaytrongthang" />
+        <item itemvalue="Application.Bai4giaiphuongtrinhbacnhat" />
+        <item itemvalue="Application.Bai3sudungtoantuMD2" />
+        <item itemvalue="Application.Bai1hienthithoigiancuahethong" />
+        <item itemvalue="Application.Baikhaibaovasudungbien2MD2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cb86f16-2718-4c5c-b366-536a023624e1" name="Changes" comment="" />
+      <created>1658668633744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658668633744</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
